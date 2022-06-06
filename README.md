@@ -1,4 +1,4 @@
-# yandex-intro-project
+# praktikum-yandex-intro 
 
 ## project1. cards (html css)
 - semantic tags
